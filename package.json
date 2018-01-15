@@ -1,6 +1,6 @@
 {
   "name": "persian-jdate",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "license": "WTFPL",
   "author": "Amin MMZ <a.memar21@gmail.com>",
   "description": "Javascript date library for parsing, validating, manipulating, and formatting persian dates System.",
@@ -11,7 +11,7 @@
     "calendar",
     "persian-jdate"
   ],
-  "main": "src/pDate",
+  "main": "dist/persian-date",
   "contributors": [
     {
       "name": "Reza Babakhani",
