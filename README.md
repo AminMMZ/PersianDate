@@ -14,16 +14,12 @@ More info at [wikipedia](http://en.wikipedia.org/wiki/Iranian_calendar)
 [![Coverage Status](https://coveralls.io/repos/github/babakhani/PersianDate/badge.svg?branch=develop)](https://coveralls.io/github/babakhani/PersianDate?branch=develop)
 [![Travis-ci](https://travis-ci.org/babakhani/PersianDate.svg?branch=master)](https://github.com/babakhani/persiandate)
 
-<a class="github-button" href="https://github.com/babakhani/persiandate" data-icon="octicon-star" data-style="mega" data-count-href="/babakhani/persiandate/stargazers" data-count-api="/repos/babakhani/persiandate#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star babakhani/persiandate on GitHub">Star</a>
-<a class="github-button" href="https://github.com/babakhani/persiandate/issues" data-icon="octicon-issue-opened" data-style="mega" data-count-api="/repos/babakhani/persiandate#open_issues_count" data-count-aria-label="# issues on GitHub" aria-label="Issue babakhani/persiandate on GitHub">Issue</a>
-<a class="github-button" href="https://github.com/babakhani/persiandate/fork" data-icon="octicon-repo-forked" data-style="mega" data-count-href="/babakhani/persiandate/network" data-count-api="/repos/babakhani/persiandate#forks_count" data-count-aria-label="# forks on GitHub" aria-label="Fork babakhani/persiandate on GitHub">Fork</a>
-
 
 ## Install
 
 ```shell
-npm install persian-date --save-dev
-bower install persian-date --save-dev
+npm install persian-jdate --save-dev
+bower install persian-jdate --save-dev
 ```
 
 ## Browser
@@ -36,7 +32,7 @@ bower install persian-date --save-dev
 ```
 ## Webpack
 ```
-require('persian-date');
+require('persian-jdate');
 ```
 
 ## Calendar and locale
