@@ -1,6 +1,6 @@
 {
   "name": "persian-jdate",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "license": "WTFPL",
   "author": "Amin MMZ <a.memar21@gmail.com>",
   "description": "Javascript date library for parsing, validating, manipulating, and formatting persian dates System.",
@@ -18,7 +18,7 @@
       "email": "babakhani.reza@gmail.com"
     }
   ],
-  "repository": "git@github.com:babakhani/PersianDate.git",
+  "repository": "git@github.com:aminmmz/PersianJDate.git",
   "homepage": "http://babakhani.github.io/PersianWebToolkit/docs/persian-date/",
   "devDependencies": {
     "amd-loader": "0.0.8",
